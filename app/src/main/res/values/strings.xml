@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GymTracker</string>
+    <string name="create_workout">Create Workout</string>
+    <string name="view_workouts">View Workouts</string>
+    <string name="start_workout">Start Workout</string>
+    <string name="create_exercise">Create Exercise</string>
+    <string name="create_a_new_exercise">Create a new Exercise</string>
+    <string name="name_input_hint">Exercise Name</string>
+    <string name="reps">Reps</string>
+    <string name="sets">Sets</string>
+    <string name="weight_kg">Weight (KG)</string>
+    <string name="rest">Rest (Seconds)</string>
+    <string name="notes">Notes</string>
+    <string name="add_workout">Add workout</string>
+</resources>
